@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4783bf26-8c52-40d1-b4c9-a2abfd3b15ae" name="Default Changelist" comment="" />
+    <list default="true" id="4783bf26-8c52-40d1-b4c9-a2abfd3b15ae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCases/Launch_Google_WebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCases/Launch_Google_WebPage.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,12 +37,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/Launch_Google_WebPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="238">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,6 +54,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,6 +80,7 @@
     <option name="width" value="2020" />
     <option name="height" value="1003" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -135,7 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643835032153" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1643836270556" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,17 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.Launch_Google_WebPage">
-    <configuration name="C:/Users/Administrator/IdeaProjects/Selenium/TestNG.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Launch_Google_WebPage (3)">
     <configuration name="Launch_Google_WebPage (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
@@ -177,6 +173,22 @@
       </method>
     </configuration>
     <configuration name="Launch_Google_WebPage (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.Launch_Google_WebPage" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launch_Google_WebPage (3)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
@@ -228,18 +240,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.Launch_Google_WebPage" />
-      <item itemvalue="TestNG.C:/Users/Administrator/IdeaProjects/Selenium/TestNG.xml" />
       <item itemvalue="TestNG.Launch_Google_WebPage (1)" />
       <item itemvalue="TestNG.Launch_Google_WebPage.launchGoogleSite" />
       <item itemvalue="TestNG.Launch_Google_WebPage (2)" />
+      <item itemvalue="TestNG.Launch_Google_WebPage (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Launch_Google_WebPage (3)" />
         <item itemvalue="TestNG.Launch_Google_WebPage" />
         <item itemvalue="TestNG.Launch_Google_WebPage (2)" />
         <item itemvalue="TestNG.Launch_Google_WebPage.launchGoogleSite" />
         <item itemvalue="TestNG.Launch_Google_WebPage (1)" />
-        <item itemvalue="TestNG.C:/Users/Administrator/IdeaProjects/Selenium/TestNG.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -272,9 +284,19 @@
     <history-entry file="Launch_Google_WebPage_(1) - 2022.02.03 at 02h 13m 32s.xml">
       <configuration name="Launch_Google_WebPage (1)" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="Launch_Google_WebPage_launchGoogleSite - 2022.02.03 at 02h 18m 47s.xml">
+      <configuration name="Launch_Google_WebPage.launchGoogleSite" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Launch_Google_WebPage_(2) - 2022.02.03 at 02h 19m 24s.xml">
+      <configuration name="Launch_Google_WebPage (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="Launch_Google_WebPage - 2022.02.03 at 02h 20m 14s.xml">
+      <configuration name="Launch_Google_WebPage" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1653" height="896" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -308,13 +330,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestNG.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -322,14 +337,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestCases/Launch_Google_WebPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
           </folding>
         </state>
       </provider>
