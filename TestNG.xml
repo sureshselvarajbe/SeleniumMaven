@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Google Web Page">
+    <test thread-count="5" name="Opening google">
+        <classes>
+            <class name="TestCases.Launch_Google_WebPage"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
